@@ -1,0 +1,3 @@
+rootProject.name = 'cTrek'
+
+include ':app'
